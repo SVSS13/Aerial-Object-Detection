@@ -194,9 +194,6 @@ streamlit run streamlit_app/app.py
 >(https://github.com/SVSS13/Aerial-Object-Detection/blob/main/BD_py.jpg)
 
 ```
-
-![Output Demo](assets/screenshots/output_demo.png)
-
 ```
 
 ---
@@ -254,6 +251,7 @@ If this project helped you, consider giving it a **⭐ on GitHub**!
 ```
 
 ---
+
 
 
 
