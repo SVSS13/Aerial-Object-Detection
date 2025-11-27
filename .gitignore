@@ -21,7 +21,6 @@ desktop.ini
 *.weights
 
 
-
 # Training datasets (too large for Git)
 train/
 valid/
