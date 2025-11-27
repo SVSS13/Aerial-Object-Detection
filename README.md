@@ -105,7 +105,7 @@ streamlit run streamlit_app/app.py
 
 ## 🎯 **Outputs**
 ### **🖼️ Insert Output Image Here**
->(https://github.com/SVSS13/Aerial-Object-Detection/edit/main/BD_py.jpg)
+>(https://github.com/SVSS13/Aerial-Object-Detection/blob/main/BD_py.jpg)
 
 ```
 
@@ -187,6 +187,7 @@ If this project helped you, consider giving it a **⭐ on GitHub**!
 ```
 
 ---
+
 
 
 
