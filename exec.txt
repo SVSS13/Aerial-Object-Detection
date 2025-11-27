@@ -1,0 +1,3 @@
+The Custom CNN trained from scratch achieved 90% test accuracy (Bird: 0.91 precision, 0.92 recall; Drone: 0.89 precision, 0.88 recall), showing that a relatively shallow architecture can already separate birds and drones reasonably well.”
+
+“However, the MobileNetV2 transfer learning model achieved 98% accuracy on the same test set, significantly reducing misclassifications. Therefore, MobileNetV2 was selected as the final deployed model in the Streamlit application, while the Custom CNN serves as a baseline for comparison.

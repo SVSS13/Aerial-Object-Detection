@@ -1,0 +1,59 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Model files (Keras & PyTorch)
+*.keras
+*.h5
+*.pt
+*.pth
+*.onnx
+*.weights
+
+# Checkpoints & saved models
+models/Checkpoint/
+!models/Checkpoint/.gitkeep
+
+# Training datasets (too large for Git)
+train/
+valid/
+test/
+dataset/
+data/
+*.zip
+*.tar.gz
+
+# YOLO training artifacts
+runs/
+**/runs/
+*.yaml
+*.cache
+
+# Streamlit cache
+.streamlit/
+**/.streamlit/
+.cache/
+**/.cache/
+
+# Logs
+logs/
+*.log
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code / Editor settings
+.vscode/
+.idea/
