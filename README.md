@@ -210,14 +210,3 @@ If this project helped you, consider giving it a **⭐ on GitHub**!
 
 ---
 
-# ✅ **DONE**
-
-If you want:
-
-✔ Auto-generated **Wiki pages**
-✔ GitHub profile README
-✔ PNG banner
-✔ Dockerfile
-✔ Deploy to Streamlit Cloud
-
-Just say **“Generate ___”**.
