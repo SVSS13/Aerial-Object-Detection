@@ -1,5 +1,4 @@
 
---md
 # 🕊️ Aerial Object Detection (Bird vs Drone)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10-ff6f00?logo=tensorflow)
@@ -16,8 +15,6 @@ A complete end-to-end **Aerial Object Detection System** capable of:
 - Showing model explanations using **Grad-CAM**
 - Rendering metadata, insights, confidence plots and detection overlays
 - Running inside an elegant **Streamlit dashboard UI**
-
----
 
 ## 📌 **Features**
 ### **Classification**
@@ -187,6 +184,7 @@ If this project helped you, consider giving it a **⭐ on GitHub**!
 ```
 
 ---
+
 
 
 
