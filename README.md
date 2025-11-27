@@ -222,25 +222,6 @@ streamlit run streamlit_app/app.py
 
 ---
 
-## 📸 **Screenshots Section**
-(Add your real screenshots here)
-
-```
-
-### Dashboard UI
-
-![Dashboard](assets/screenshots/dashboard_ui.png)
-
-### YOLO Detection Output
-
-![YOLO](assets/screenshots/yolo_output.png)
-
-### Grad-CAM Visualization
-
-![GradCAM](assets/screenshots/gradcam.png)
-
-```
-
 ---
 
 ## 🧑‍💻 **Author**
@@ -273,6 +254,7 @@ If this project helped you, consider giving it a **⭐ on GitHub**!
 ```
 
 ---
+
 
 
 
