@@ -1,0 +1,18 @@
+# bird_drone.yaml
+# YOLOv8 dataset configuration for Bird vs Drone detection
+
+# Root folder of your dataset
+path: S:/BTech/Labmentix/Aerial-Object-Detection/detection
+
+# Relative paths inside the dataset directory
+train: train/images
+val: valid/images
+test: test/images
+
+# Number of classes
+nc: 2
+
+# Class names
+names:
+  0: Bird
+  1: Drone
